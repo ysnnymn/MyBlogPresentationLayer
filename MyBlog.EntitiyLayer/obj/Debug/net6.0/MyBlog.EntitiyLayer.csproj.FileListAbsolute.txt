@@ -1,0 +1,12 @@
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/bin/Debug/net6.0/MyBlog.EntitiyLayer.deps.json
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/bin/Debug/net6.0/MyBlog.EntitiyLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/bin/Debug/net6.0/MyBlog.EntitiyLayer.pdb
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.AssemblyInfoInputs.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.AssemblyInfo.cs
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/refint/MyBlog.EntitiyLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.pdb
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/ref/MyBlog.EntitiyLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyBlog.EntitiyLayer/obj/Debug/net6.0/MyBlog.EntitiyLayer.csproj.AssemblyReference.cache

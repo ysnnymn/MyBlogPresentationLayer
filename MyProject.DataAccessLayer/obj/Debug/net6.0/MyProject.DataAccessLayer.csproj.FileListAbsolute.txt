@@ -1,0 +1,17 @@
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyProject.DataAccessLayer.deps.json
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyProject.DataAccessLayer.runtimeconfig.json
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyProject.DataAccessLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyProject.DataAccessLayer.pdb
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyBlog.EntitiyLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/bin/Debug/net6.0/MyBlog.EntitiyLayer.pdb
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.AssemblyInfo.cs
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/refint/MyProject.DataAccessLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.pdb
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.genruntimeconfig.cache
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/ref/MyProject.DataAccessLayer.dll
+/Users/yasinyaman/Desktop/Murat Yücedağ/MyBlog.PresentationLayer/MyProject.DataAccessLayer/obj/Debug/net6.0/MyProject.DataAccessLayer.csproj.CopyComplete
